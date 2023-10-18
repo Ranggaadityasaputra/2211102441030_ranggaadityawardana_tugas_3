@@ -1,3 +1,3 @@
-Nama   : Akmal mujahid
-Nim    : 2211102441021
+Nama   : rangga aditya wardana 
+Nim    : 2211102441030
 Markul :Pemrograman Berbasis Objek
